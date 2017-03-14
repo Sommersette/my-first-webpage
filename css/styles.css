@@ -1,11 +1,13 @@
 h1 {
   text-align: center;
-  font-style: normal;
   font-weight: bolder;
-  font-family: san-serif, arial;
+  font-family: 'Griffy', cursive;
   font-size: 60px;
-  line-height: normal;
-  color: red;
+  color: #cc0000;
+  text-shadow: -2px -2px 0 #000,
+                2px -2px 0 #000,
+                -2px 2px 0 #000,
+                2px 2px 0 #000;
 }
 
 * {
@@ -20,4 +22,8 @@ ul {
 
 img{
   width: 300px;
+}
+
+body {
+  background-image: url("../img/background.jpg");
 }
