@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-style: normal;
+  font-weight: bolder;
+  font-family: san-serif, arial;
+  font-size: 60px;
+  line-height: normal;
+  color: red;
+}
+
+* {
+  text-align:center;
+}
+
+ul {
+  width: 180px;
+  margin:auto;
+  list-style-type: none;
+}
+
+img{
+  width: 300px;
+}
